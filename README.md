@@ -2,8 +2,6 @@
 
 ## 📸 Preview
 
-## 📸 Preview
-
 ### Tela Inicial
 ![Tela Inicial](assets/home.png)
 
