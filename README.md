@@ -2,7 +2,16 @@
 
 ## 📸 Preview
 
-![Preview do Sistema](assets/preview.png)
+## 📸 Preview
+
+### Tela Inicial
+![Tela Inicial](assets/home.png)
+
+### Formulário de Solicitação
+![Formulário](assets/formulario.png)
+
+### Painel Administrativo
+![Painel](assets/painel.png)
 
 ## 📖 Sobre o Projeto
 
