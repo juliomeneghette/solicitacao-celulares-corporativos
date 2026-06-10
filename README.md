@@ -1,5 +1,9 @@
 # 📱 Sistema de Solicitação de Celulares Corporativos
 
+## 📸 Preview
+
+![Preview do Sistema](assets/preview.png)
+
 ## 📖 Sobre o Projeto
 
 Sistema desenvolvido para centralizar e controlar solicitações de celulares corporativos, incluindo aquisição, manutenção, substituição e acompanhamento das demandas.
